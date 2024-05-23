@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: broder-box;
+
+}
+body{
+    display: flex;
+    justify-content:cener;
+    align-items: center;
+    height: 100vh;
+    background-color: darkseagreen;
+}
